@@ -3,6 +3,8 @@ Tic Tac Toe Opponent trained with AI (Q-Learning)
 
 # Entwicklung einer künstlichen Intelligenz für TicTacToe
 
+![Abbildung1.1](Media/ModeAIvsAI.png)
+
 **Julius Steinbach**  
 Modul: KI für Spiele  
 Betreuer: Prof. Dr. Christof Rezk-Salama  
@@ -68,7 +70,7 @@ KI zu starten und die Ergebnisse zu analysieren. Zudem wird ein „Ai-Evaluation
 Modus angeboten, mit dem das Spielverhalten der KI analysiert werden kann. Die
 Statistik der gespielten Spiele wird dabei in einem Chart übersichtlich dargestellt.
 
-![Abbildung1.1](Media/ModeAIvsAI.png)
+
 
 
 ## 1.2 Spielmodi
