@@ -68,6 +68,8 @@ KI zu starten und die Ergebnisse zu analysieren. Zudem wird ein „Ai-Evaluation
 Modus angeboten, mit dem das Spielverhalten der KI analysiert werden kann. Die
 Statistik der gespielten Spiele wird dabei in einem Chart übersichtlich dargestellt.
 
+![Abbildung1.1](Media/ModeAIvsAi.png)
+
 
 ## 1.2 Spielmodi
 
