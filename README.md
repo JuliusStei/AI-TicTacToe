@@ -163,6 +163,8 @@ und mit folgender Konfiguration getestet:
   - Discount Rate: 0,75
   - Reward for Possible Win: 0,6
   - Reward for Possible Loss: -1
+ 
+  ![Abbildung1.2](Media/Iteration1.png)
 
 **Ergebnis:**  
 Das Ergebnis war sehr positiv: Nach 4900 Spielen gewann die KI 4392 Mal, wäh-
@@ -176,13 +178,14 @@ Spielen endeten 2097 Spiele unentschieden. Nur in wenigen Fällen konnte eine de
 KIs die Oberhand gewinnen. Dies deutet darauf hin, dass beide KIs gleichermaßen
 gut trainiert sind und durch ihr intelligentes Spielverhalten häufig in eine Pattsi-
 tuation geraten.
+  ![Abbildung1.3](Media/Iteration2.png)
 
 ### 1.3.3 Einfluss der Iterationen
 Um den Einfluss der Trainingsdauer auf den Lernerfolg der KI zu untersuchen,
 wurden drei KIs mit unterschiedlichen Iterationsanzahlen trainiert, um diese dann
 gegen einen zufällig agierenden Gegner zu testen. Dabei sind folgende Ergebnisse
 entstanden:
-
+  ![Abbildung1.4](Media/Iteration3.png)
 - 1.000 Iterationen: 63 %
 - 100.000 Iterationen: 87 %
 - 1.000.000 Iterationen: 92 %
