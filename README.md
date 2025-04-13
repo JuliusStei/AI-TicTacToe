@@ -190,6 +190,7 @@ Um den Einfluss der Trainingsdauer auf den Lernerfolg der KI zu untersuchen,
 wurden drei KIs mit unterschiedlichen Iterationsanzahlen trainiert, um diese dann
 gegen einen zufällig agierenden Gegner zu testen. Dabei sind folgende Ergebnisse
 entstanden:
+
   ![Abbildung1.4](Media/Iteration3.png)
 
   
